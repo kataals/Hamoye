@@ -1,2 +1,1 @@
-# HDSC
-Hamoye Data Science Externship 
+# Hamoye Data Science
